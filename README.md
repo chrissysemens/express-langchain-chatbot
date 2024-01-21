@@ -1,4 +1,4 @@
-# Express / Langchain chat bot Api
+# Express / Langchain chatbot Api
 A quick AI express chatbot using langchain. 
 
 Run the app and post to the end point with a question about Burkino Faso in the body.
